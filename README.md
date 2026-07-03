@@ -56,6 +56,9 @@ A full-stack rental matching platform with AI compatibility scoring, tenant-owne
 - `POST /api/profile` - tenant creates or updates profile
 - `GET /api/profile` - tenant fetches current profile
 
+- <img width="2194" height="1426" alt="Screenshot 2026-07-03 110521" src="https://github.com/user-attachments/assets/7e79389f-622f-490c-b28b-8b29fd480022" />
+
+
 ### Interest & Matches
 
 - `POST /api/interest/:listingId` - tenant sends interest request

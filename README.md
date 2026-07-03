@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Rent & Flatmate Finder
 
 A full-stack rental matching platform with AI compatibility scoring, tenant-owner chat, and notification workflows.
@@ -102,10 +102,6 @@ compute a compatibility score from 0 to 100 based on budget and location match. 
 }
 ```
 
-## System Design Summary
+<img width="2200" height="1706" alt="Screenshot 2026-07-03 105623" src="https://github.com/user-attachments/assets/4b7132e2-bdb1-4285-b5a1-1bf1d9871403" />
 
-See `SYSTEM_DESIGN.md` for architecture, scoring design, fallback behavior, chat flow, and notification flow.
-=======
-# Rental_Flatmate_Finder
-Owners can create and manage room listings, while tenants can browse listings, view compatibility scores, and express interest in rooms. Once an owner accepts a request, both users can communicate through real-time chat. The platform also sends email notifications for important updates such as interest requests and acceptance decisions.  
->>>>>>> 6242d86f0adf74a055d91decd87a73bdcbf38ec7
+

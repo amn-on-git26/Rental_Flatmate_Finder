@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rent & Flatmate Finder</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="bg-slate-50 text-slate-900">
+  <div class="app-shell mx-auto p-4">
+    <header>
+      <h1>Rent & Flatmate Finder</h1>
+      <div id="auth-actions"></div>
+    </header>
+
+    <main>
+      <section id="auth-section" class="panel"></section>
+      <section id="tenant-section" class="panel hidden"></section>
+      <section id="owner-section" class="panel hidden"></section>
+      <section id="admin-section" class="panel hidden"></section>
+      <section id="chat-section" class="panel hidden"></section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

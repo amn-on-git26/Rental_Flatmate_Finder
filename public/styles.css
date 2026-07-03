@@ -1,0 +1,12 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #f5f7fb; color: #1f2937; }
+.app-shell { max-width: 1100px; margin: 0 auto; padding: 20px; }
+header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+.panel { background: white; border: 1px solid #d1d5db; border-radius: 10px; padding: 20px; margin-bottom: 20px; }
+.hidden { display: none; }
+button { background: #2563eb; color: white; border: none; padding: 10px 16px; border-radius: 6px; cursor: pointer; }
+button.secondary { background: #6b7280; }
+button.small { padding: 6px 10px; font-size: 0.9rem; }
+input, select, textarea { width: 100%; padding: 10px; border: 1px solid #d1d5db; border-radius: 6px; box-sizing: border-box; margin-bottom: 10px; }
+label { display: block; margin-bottom: 6px; font-weight: 600; }
+.listing-card, .match-card, .message-card { border: 1px solid #e5e7eb; border-radius: 10px; padding: 14px; margin-bottom: 12px; }
+.message-card { background: #f3f4f6; }
